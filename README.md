@@ -35,7 +35,7 @@
 
 - **Languages**:
     
-    <a margin="10" href="https://www.javascript.com/" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/javascript.svg" alt="javascript"></a>&nbsp; &nbsp;
+    <a margin="10" href="https://www.javascript.com/" target="_blank"><img margin="10px" height="40" src="https://user-images.githubusercontent.com/97529559/225982795-8ba65ae4-9876-42f9-9d50-38296e3fb10d.svg" alt="javascript"></a>&nbsp; &nbsp;
     <a margin="10" href="https://reactnative.dev/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react-native"></a>&nbsp; &nbsp;
     <a margin="10" href="https://nodejs.org/en/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="python"></a>&nbsp; &nbsp;
     <a margin="10" href="https://www.python.org/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" alt="python"></a>&nbsp; &nbsp;
@@ -45,9 +45,9 @@
     
 - **Front-End Development**:
 
-   <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>&nbsp; &nbsp;
-   <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>&nbsp; &nbsp;
-   <a margin="10" href="https://getbootstrap.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/bootstrap.svg" alt="bootstrap"></a>&nbsp; &nbsp;
+   <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://user-images.githubusercontent.com/97529559/225983117-00721d2e-cd5e-47b2-9f36-4237e8d5f848.svg" alt="html"></a>&nbsp; &nbsp;
+   <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://user-images.githubusercontent.com/97529559/225983296-a407be4d-9a36-42fb-a7dd-3ecebcbd21cf.svg" alt="css"></a>&nbsp; &nbsp;
+   <a margin="10" href="https://getbootstrap.com" target="_blank"><img margin="10px" height="40" src="https://user-images.githubusercontent.com/97529559/225983501-c25dda72-2a1d-4bb4-a316-ceb9661de0e8.svg" alt="bootstrap"></a>&nbsp; &nbsp;
 
 <br>
 
