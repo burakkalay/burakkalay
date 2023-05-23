@@ -11,7 +11,7 @@
 
 
 	
-## <picture><img src = "https://user-images.githubusercontent.com/97529559/209472948-1c974e45-4a23-4aeb-a73e-cf33d6e68e59.gif" width = 50px></picture> **About Me**
+## <picture><img src = "https://github.com/burakkalay/burakkalay/assets/97529559/120c0f17-f929-46b0-b734-8bebd39a455b" width = 50px></picture> **About Me**
 
 <picture> <img align="right" src="https://github.com/burakkalay/burakkalay/assets/97529559/fc1d2869-1e59-489a-a012-d63cd41ed5d1" width = 250px></picture>
 
