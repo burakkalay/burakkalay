@@ -13,7 +13,7 @@
 	
 ## <picture><img src = "https://user-images.githubusercontent.com/97529559/209472948-1c974e45-4a23-4aeb-a73e-cf33d6e68e59.gif" width = 50px></picture> **About Me**
 
-<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/burakkalay/burakkalay/assets/97529559/fc1d2869-1e59-489a-a012-d63cd41ed5d1" width = 250px></picture>
 
 <br>
 
